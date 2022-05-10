@@ -4,7 +4,7 @@ I am currently working as a Business & Financial Analyst at [Sahulat][1]. Apart 
 
 In the past, I have worked with [Factset][2] as a Research Analyst.
 
-### Good at working on
+### Good at working
 Power BI Desktop, Tableau Desktop, SQL, and Advanced Excel.
 
 ### Reach me 📲
