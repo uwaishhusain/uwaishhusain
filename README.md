@@ -9,7 +9,7 @@ Power BI Desktop, Tableau Desktop, SQL, and Advanced Excel.
 
 ### Reach me 📲
 
-[LinkedIn][3]
+![LinkedIn](https://user-images.githubusercontent.com/105152670/169641232-28c093c9-f541-4b30-8d73-f960d517b568.png) [LinkedIn][3]
 
 
 [1]: https://sahulathyd.org/ "Sahulat"
