@@ -2,7 +2,7 @@
 # Hi there 👋
 I am currently working as a Business & Financial Analyst at [Sahulat][1]. My expertise are to solve business problems by data using Power BI, Tableau, SQL, Python, and  Advanced Excel. Additionally, I supervise a team of 40-Person and have monthly check-in sessions to learn their performance.
 
-In the past, I have worked with [Factset][2] as a Research Analyst. My work was to study the Financial Statements of listed companies and extracting the useful information out of it and then tranform the data to make it user friendly.
+In the past, I have worked with [Factset][2] as a Research Analyst. My work was to study the Financial Statements of listed companies.
 
 ### Good at working
 Power BI Desktop, Tableau Desktop, SQL, Python, and Advanced Excel.
