@@ -1,7 +1,7 @@
 
 # 👋 Hi there!
 
-I'm **Uwaish Husain**, a data professional with 4+ years of experience solving real-world business problems through data-driven thinking. I specialize in uncovering insights, building intelligent automation, and translating raw data into impactful decisions.
+I'm **Uwaish Husain**, a data professional with ~5 years of experience solving real-world business problems through data-driven thinking. I specialize in uncovering insights, building intelligent automation, and translating raw data into impactful decisions.
 
 💼 Currently, I'm working as a **Senior Consultant at [Sahulat](https://sahulat.org)**, where I lead data strategy and analytics initiatives to support financial operations and policy planning. My toolset includes **Power BI, SQL, Python, Tableau**, and **Advanced Excel**, but my real strength lies in how I apply them to streamline reporting, optimize performance, and solve business challenges.
 
